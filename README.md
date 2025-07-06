@@ -40,6 +40,7 @@ Question: What is the capital of South Korea?
 2. Berlin
 3. Madrid
 4. Rome
+
 Enter your answer (1/2/3/4 or 0 to quit): 1
 Correct!
 
@@ -49,6 +50,7 @@ Question: Which planet is known as the Red Planet?
 2. Venus
 3. Earth
 4. Jupiter
+
 Enter your answer (1/2/3/4 or 0 to quit): 3
 Incorrect. Correct answer: Option 1
 
@@ -58,6 +60,7 @@ Question: What is 2 + 2?
 2. 4
 3. 5
 4. 6
+
 Enter your answer (1/2/3/4 or 0 to quit): 
 Time's up!
 Time's up! Correct answer: Option 2
